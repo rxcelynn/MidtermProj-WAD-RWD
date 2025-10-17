@@ -26,8 +26,15 @@ The platform provides an easy and user-friendly way to browse available pets, le
 - Contact section integrated in the footer  
 
 ---
-
 ## Instructions to Run the Project
 1. **Clone or download** the repository:
    ```bash
    git clone https://github.com/rocelynlava/Heart2Home.git
+## or
+
+## Link to Visit the Website
+<p align="center">
+  <a href="https://cheeluxxx.github.io/fffff/" target="_blank"><b>Link to run the website</b></a>
+</p>
+
+
